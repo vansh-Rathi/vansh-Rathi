@@ -90,13 +90,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vansh-Rathi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="left" height="300" width="" />  
   
